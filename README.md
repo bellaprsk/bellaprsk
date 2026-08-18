@@ -2,10 +2,12 @@
 <h3 align="center">Full Stack Web Developer | Information Systems Student</h3>
 
 <p align="center">
-  I'm currently pursuing a Bachelor's degree in Information Systems, while working as a Full Stack Web Developer. I'm always looking forward to learning something new.
+  I'm currently pursuing a Bachelor's degree in Information Systems, while working as a Full Stack Web Developer. I enjoy building clean, functional web applications and I'm always looking forward to learning something new.
 </p>
 
 ---
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
