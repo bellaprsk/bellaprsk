@@ -7,8 +7,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 **Languages & Markup**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -26,12 +24,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bellaprsk&show_icons=true&theme=radical" alt="Bella's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellaprsk&theme=radical" alt="Bella's GitHub Streak" height="165"/>
-</p>
 
 ### 📫 Let's Connect
 
