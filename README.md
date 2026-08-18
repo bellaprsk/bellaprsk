@@ -7,11 +7,6 @@
 
 ---
 
-### 🎓 Background
-- 💻 Full Stack Web Developer
-- 📚 Bachelor's in Information Systems (in progress)
-- 🌱 Constantly learning and improving my skills
-
 ### 🛠️ Tech Stack
 
 **Languages & Markup**
