@@ -14,29 +14,26 @@ Currently balancing code and college while pursuing a **Bachelor's degree in Inf
 - 💼 Working as a **Full Stack Web Developer**
 - 🎓 Studying **Information Systems**
 - 🌍 Languages: **Portuguese** (native/fluent) and **English** (C1)
-- ✈️ Off the keyboard, I'm a **Private Pilot** — flying is my favorite hobby!
-- 🌱 Always learning something new and leveling up my skills
-- 🤝 Open to collaborating on **cool web projects**
-- 💬 Ask me about **PHP, Laravel and web development**
+- ✈️ Off the keyboard, I'm a **Private Pilot**
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center"><b>Back-end</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Back-end" />
-</p>
-
-<p align="center"><b>Front-end</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,tailwind&theme=dark" alt="Front-end" />
-</p>
-
-<p align="center"><b>Tools & DevOps</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="Tools" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>Back-end</b></td>
+    <td align="center"><b>Front-end</b></td>
+    <td align="center"><b>Tools & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Back-end" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,html,tailwind&theme=dark" alt="Front-end" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
+</div>
 
 ---
 
