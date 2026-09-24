@@ -8,8 +8,8 @@
 
 ### 💜 About Me
 
-I'm a **Full Stack Web Developer** who loves turning ideas into **clean, functional and user-friendly** web applications.
-Currently balancing code and college while pursuing a **Bachelor's degree in Information Systems**. 🎓
+I'm a person who loves turning ideas into **clean, functional and user-friendly** applications.
+Currently balancing code, college and aviation school. 📚
 
 - 💼 Working as a **Full Stack Web Developer**
 - 🎓 Studying **Information Systems**
