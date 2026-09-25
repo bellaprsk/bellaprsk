@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Bella! 👩‍💻✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Information+Systems+Student;Building+clean+%26+functional+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Information+Systems+Student" alt="Typing SVG" />
 </p>
 
 ---
