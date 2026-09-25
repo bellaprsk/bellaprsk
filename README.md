@@ -25,11 +25,13 @@ Currently balancing code, college and aviation school. 📚
   <tr>
     <td align="center"><b>Back-end</b></td>
     <td align="center"><b>Front-end</b></td>
+    <td align="center"><b>Mobile</b></td>
     <td align="center"><b>Tools & DevOps</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Back-end" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js,html,tailwind&theme=dark" alt="Front-end" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,swift&theme=dark" alt="Mobile" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
